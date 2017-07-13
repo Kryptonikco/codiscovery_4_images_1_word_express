@@ -1,0 +1,26 @@
+{
+  "name": "codiscovery_4_images_1_word_express",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">= 7"
+  },
+  "description": "Codiscovery is a free live coding workshop. So all examples are based on a 2hrs session. You won't have the full features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kryptonikco/codiscovery_4_images_1_word_express.git"
+  },
+  "author": "Jénaïc Cambré <me@jenaiccambre.com> (www.jenaiccambre.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kryptonikco/codiscovery_4_images_1_word_express/issues"
+  },
+  "homepage": "https://github.com/Kryptonikco/codiscovery_4_images_1_word_express#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
