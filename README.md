@@ -19,3 +19,7 @@ npm start
 Open browser at http://localhost:5000
 
 Ready for Heroku deployment: https://devcenter.heroku.com/articles/deploying-nodejs
+
+# Warning
+
+Words and images are based on the French language, but you can change them

@@ -1,5 +1,5 @@
 const words = [{
-  word: 'HEAT',
+  word: 'CHALEUR',
   imgs: [
     '/img/img1_1.png',
     '/img/img1_2.png',
@@ -7,7 +7,7 @@ const words = [{
     '/img/img1_4.png',
   ],
 }, {
-  word: 'MORNING',
+  word: 'MATIN',
   imgs: [
     '/img/img2_1.png',
     '/img/img2_2.png',
