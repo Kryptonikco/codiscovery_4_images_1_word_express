@@ -16,6 +16,6 @@ npm install
 npm start
 ```
 
-Open browser to http://localhost:5000
+Open browser at http://localhost:5000
 
 Ready for Heroku deployment: https://devcenter.heroku.com/articles/deploying-nodejs
